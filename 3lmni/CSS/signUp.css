@@ -1,0 +1,102 @@
+::placeholder{
+  font-weight:bold;
+  color:black;
+}
+#teacher{
+  display:inline-block;
+}
+.main{
+  color:blue;
+  font-size:35px;
+  margin:0px;
+}
+.side{
+  margin:0px;
+  color:black;
+  font-size:30px;
+}
+form{
+  display:inline-block;
+  width:100%;
+margin:10px;
+text-align:center;
+position:relative;
+}
+.form{
+  width:300px;
+display:none;
+}
+.form:first-child{
+  display:inline-block;
+}
+.input{
+  border:none;
+  box-shadow:5px 5px 5px 2px #dad9d9;
+  padding:5px;
+    margin: 10px;
+    width:200px;
+    height:50px;
+transition:0.4s ease-in-out;
+}
+.input:hover{
+border-radius:20px;
+}
+#info{
+  position:relative;
+  left:0px;
+width:500px;
+height:500px;
+padding:20px;
+margin:10px;
+}
+#title{
+  font-size:50px;
+}
+#submit{
+  background:#120cda;
+   border:none;
+   color:white;
+   padding:20px;
+   margin:10px;
+   border-radius:10px;
+     box-shadow:5px 5px 5px 2px #dad9d9;
+}
+#benefits li{
+  font-size:25px;
+}
+#check {
+font-size:20px;
+margin:5px;
+}
+.checkbox{
+  width:20px;
+  height:20px;
+}
+.error{
+  display: none;
+  color:#c30b4a;
+  float:left;
+  margin:0px;
+}
+.level{
+  background-color:#4d76ed;
+  border-radius:100%;
+  width:20px;
+  height:20px;
+  float:left;
+}
+.checkbox-form{
+  margin:20px;
+}
+#check-form{
+width:125px;
+  float:right;
+  font-size:20px;
+  margin:13px;
+  margin-left:0px;
+  text-align: left;
+}
+.che{
+  float:left;
+  width:200px;
+}
