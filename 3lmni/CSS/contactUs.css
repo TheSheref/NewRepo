@@ -3,8 +3,8 @@
   font-weight: bold;
 }
 #contact-info{
-  float:left;
-  display: inline-block;
+float: left;
+display: inline-block;
 padding:10px;
 margin:50px;
 box-shadow:2px 2px 2px 2px #88858a;
