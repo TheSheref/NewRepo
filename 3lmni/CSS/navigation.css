@@ -41,6 +41,15 @@ background-color:#1e1f1e;
   border-radius:20px;
   font-size:20px;
   margin:20px;
+  transition: 0.9s ease-in-out;
+}
+
+#logIn:hover{
+  border-bottom:3px solid blue;
+  color: blue;
+  border-radius: 0;
+  padding-bottom: 0;
+  background-color: transparent;
 }
 footer{
   height:20pc;

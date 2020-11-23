@@ -123,7 +123,7 @@ transition:0.4s ease-in-out;
 }
 
 .signUp-button:hover{
-  border-radius: 5px;
+  border-radius: 10px;
   background-color: rgb(0, 0, 0);
 }
 #benefits li{
